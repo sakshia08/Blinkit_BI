@@ -1,5 +1,5 @@
 # Blinkit_BI
- Power BI Blinkit sales analysis
+ Power BI dashboard to analyse blinkit sales data and extract important details
 
 ## 📌 Overview
 This Power BI project provides a 360-degree analytical view of **Blinkit**, a last-minute grocery delivery app in India. Built by following a structured video tutorial and customized further, this dashboard enables deep analysis of:
